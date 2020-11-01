@@ -32,9 +32,9 @@ in html
         </header>
         <hr class="header"/>
         <nav>
-            <a href="index.html">Home</a>
-            <a href="about.html" class="highlighted">About</a>
-            <a href="contact.html">Contact</a>
+            <a href="index.php">Home</a>
+            <a href="about.php" class="highlighted">About</a>
+            <a href="contact.php">Contact</a>
         </nav>
         <br/>
         <main>
